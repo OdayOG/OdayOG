@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Abdurahman
 
-- Studying Humanistic-Technological Bachelor at Roskilde University, focus on informatics & Cs
+- Studying Informatics & Cs Bachelor at Roskilde University
 - Currently exploring IT, digitalization and automation
 - Working with Python, Java, HTML and CSS
 - How to reach me: abdurahman.farah01@gmail.com
